@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/yummy-react/static/css/main.027b366b.chunk.css",
+    "main.css": "/yummy-react/static/css/main.69f3243a.chunk.css",
     "main.js": "/yummy-react/static/js/main.b1aca5aa.chunk.js",
     "main.js.map": "/yummy-react/static/js/main.b1aca5aa.chunk.js.map",
     "runtime-main.js": "/yummy-react/static/js/runtime-main.bf94b6d1.js",
@@ -8,13 +8,13 @@
     "static/js/2.25ad714f.chunk.js": "/yummy-react/static/js/2.25ad714f.chunk.js",
     "static/js/2.25ad714f.chunk.js.map": "/yummy-react/static/js/2.25ad714f.chunk.js.map",
     "index.html": "/yummy-react/index.html",
-    "static/css/main.027b366b.chunk.css.map": "/yummy-react/static/css/main.027b366b.chunk.css.map",
+    "static/css/main.69f3243a.chunk.css.map": "/yummy-react/static/css/main.69f3243a.chunk.css.map",
     "static/js/2.25ad714f.chunk.js.LICENSE.txt": "/yummy-react/static/js/2.25ad714f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bf94b6d1.js",
     "static/js/2.25ad714f.chunk.js",
-    "static/css/main.027b366b.chunk.css",
+    "static/css/main.69f3243a.chunk.css",
     "static/js/main.b1aca5aa.chunk.js"
   ]
 }
